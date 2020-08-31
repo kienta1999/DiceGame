@@ -1,0 +1,46 @@
+body{
+    background-color: goldenrod;
+}
+h1{
+    font-size: 5rem;
+    text-align: center;
+    color: rgb(130, 147, 245);
+    margin: 0;
+}
+
+h2{
+    font-size: 4rem;
+    text-align: center;
+    color: rgb(130, 147, 245);
+    margin: 0;
+}
+
+p{
+    font-size: 3rem;
+    color: rgb(96, 155, 7);
+    margin: 10px 10px;
+}
+img{
+    display: inline-block;
+    width: 30rem;
+    height: 30rem;
+    border-radius: 20%;
+}
+div{
+    display: inline-block;
+    text-align: center;
+    margin: 0 100px 0 100px;
+}
+
+.center{
+    margin: auto;
+    display: inline-block;
+}
+
+button{
+    display: block;
+    margin: 10px auto 0 auto;
+    height: 4rem;
+    width: 10rem;
+    font-size: 3rem;
+}
